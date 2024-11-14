@@ -1,0 +1,18 @@
+.Table-row {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+.form-aide {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+input {
+    padding: 7px 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
